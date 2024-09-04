@@ -1,0 +1,18 @@
+*,.body{
+    margin: 0;
+}
+.common{
+    height:1521px;
+    width: 1521px;
+    background-color: #fdbe00;
+}
+.outer-header{
+    display: flex;
+    justify-content: center;
+}
+.header{
+    height:92px;
+    width:1170px;
+    background-color: #f8f500;
+    margin-top: 20px;
+}
